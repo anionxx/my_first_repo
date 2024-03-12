@@ -1,0 +1,70 @@
+cd ~
+mkdir 277466
+cd 277466
+mkdir "rok 1"
+cd "rok 1"
+mkdir "semestr letni"
+mkdir "semestr letni"
+cd "semestr letni"
+mkdir TI
+cd TI
+touch lab2.txt
+code lab2.txt
+wc lab.txt
+wc lab2.txt
+wc lab2.txt
+code lab2.txt
+wc lab2.txt
+ls lab2.txt
+ls
+ls -l
+ls -l -h
+ls -l -s
+X="Hello world"
+echo $X
+echo "X to $X"
+echo 'X to $X'
+export Y=7
+echo $X
+echo $Y
+bash
+echo $X
+ps
+cd 277466
+cd ..
+cd..
+cd ..
+cd ..
+touch hello.sh
+code hello.sh
+code hello.sh
+./hello.sh Flip Flap
+./hello.sh Flip Flap
+mv hello.sh hello
+./hello 2 3
+which cat
+which code
+which hello
+echo $PATH
+PATH="~/277466:$PATH"
+which hello
+~/.bash_profile
+touch ~/.bash_profile
+code ~/.bash_profile
+hello F S
+code hello.py
+python --version
+./hello.py Flip Flap
+./hello.py Flip flap
+touch loop.sh
+code loop.sh
+./loop.sh
+./loop.sh &
+kil 599
+kill 599
+./loop.sh
+fg %1
+./loop.sh
+bg %1
+jobs
+kill %1
